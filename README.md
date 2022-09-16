@@ -21,5 +21,4 @@
 ```
 
 
-- 🌱 I’m currently learning - **Java / Kotlin / SQL** 
-- 🌱 I am currently programming with - **HTML / CSS / JS / (half) PHP** 
+- 🌱 I am currently programming - **Web Development / Java Development** 
